@@ -1,0 +1,6 @@
+,Fecha_Alta,Tipo,Operación,Provincia,Superficie,Precio Venta,Fecha Venta,Vendedor
+0,2004-01-01,Parking,Alquiler,Lleida,291.0,2133903.0,2004-06-19,Carmen
+1,2004-01-01,Local,Venta,Girona,185.0,1945424.0,2004-04-19,Pedro
+2,2004-01-01,Oficina,Alquiler,Girona,82.0,,2004-11-08,Joaquín
+3,2004-01-02,Parking,Alquiler,Girona,285.0,,2004-04-27,Jesús
+4,2004-01-02,Suelo,Venta,Tarragona,152.0,185000.0,2004-07-10,María
