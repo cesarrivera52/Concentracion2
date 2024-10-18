@@ -1,0 +1,7 @@
+,Coef_Deter,Coef_Correl
+host_acceptance_rate vs host_response_rate,0.01112195810005534,0.1054606945741177
+review_scores_location vs review_scores_cleanliness,0.0615961358739916,0.2481856882940505
+host_acceptance_rate vs price,0.010516183720194694,0.10254844572295913
+availability_365 vs number_of_reviews,0.016220137274977287,0.1273583027327912
+host_acceptance_rate vs number_of_reviews,0.052031893817294006,0.22810500612063297
+reviews_per_month vs review_scores_communication,0.022833675020370703,0.15110815669701852

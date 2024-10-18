@@ -1,0 +1,7 @@
+Variable,Mejor Modelo,Coeficiente de Correlación Mejor Modelo,Segundo Mejor Modelo,Coeficiente de Correlación Segundo Mejor Modelo,Tercer Mejor Modelo,Coeficiente de Correlación Tercer Mejor Modelo
+host_response rate,Cuadrática,0.138884,Exponencial,0.129707,Tangencial,0.11029
+host_acceptance_rate,Cuadrática,0.275697,Valor Absoluto,0.275697,Senoidal,0.275697
+host_total listings_count,Cuadrática,0.767417,Polinomial Inversa,0.767368,Exponencial,0.767108
+accomodates,Cuadrática,0.607952,Valor Absoluto,0.602983,Polinomial Inversa,0.527198
+reviews_per_month,Exponencial,0.393872,Cuadrática,0.393027,Valor Absoluto,0.388522
+price,Exponencial,0.191284,Cuadrática,0.176896,Valor Absoluto,0.144408
