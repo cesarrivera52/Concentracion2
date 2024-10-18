@@ -1,0 +1,23 @@
+Cantidad de atributos:
+20
+
+F5_eyeE_sup_dx  F5EEX
+F6_eyeE_sup_ds  F6EES
+F8_eyeI_sup_dx  F8EIX
+F7_eyeI_sup_ds  F7EIS
+F9_eyeE_inf_dx  F9EEX
+F10_eyeE_inf_ds  F10ES
+F11_eyeI_inf_dx  F11EX
+F12_eyeI_inf_ds  F12ES
+F13_eyeV_sup  F13EV
+F14_eyeV_inf  F14EV
+F17_r_mouth_inf_ds  F17MS
+F18_r_mouth_inf_dx  F18MX
+F15_r_mouth_sup_ds  F15MS
+F16_r_mouth_sup_dx  F16MX
+F19_l_mouth  F19MH
+F20_a_mouth  F20MH
+F1_eyebrow_dx  F1EBX
+F2_eyebrow_ds  F2EBS
+F4_dl_eyebrow_dx  F4EBX
+F3_dl_eyebrow_ds  F3EBS

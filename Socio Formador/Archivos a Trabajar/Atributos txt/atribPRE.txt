@@ -1,0 +1,6 @@
+Cantidad de atributos:
+3
+
+Presión  Presn    
+Veloc_Pres  VelPr 
+Acele_Pres  AcePr

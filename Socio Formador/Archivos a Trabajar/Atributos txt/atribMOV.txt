@@ -1,0 +1,8 @@
+Cantidad de atributos:
+5
+
+Velocidad  Veloc  
+Aceleración  Acele 
+Desplaza_x  Des_x 
+Desplaza_y  Des_y 
+Desplaza_z  Des_z

@@ -1,0 +1,14 @@
+Cantidad de estados afectivos:
+4
+
+Cansancio  
+01_C.txt 
+
+Ansiedad  
+02_A.txt   
+
+Dolor  
+03_D.txt  
+
+Motivación  
+04_M.txt
